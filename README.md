@@ -7,11 +7,11 @@ Puedes consultar la documentacion oficial de este repositorio para conocer mas *
 
 ## Inicio 🚀
 
-Estas instrucciones van a proporcionar una **copia** de el ** proyecto ** en tu maquina ** local ** para **testear y corroborar** que este todo correcto.
+Estas instrucciones van a proporcionar una **copia** de el **proyecto** en tu maquina **local** para **testear y corroborar** que este todo correcto.
 
 ### Pre-requiments 📋
 
-Necesitas installar ** Docker ** y una terminal de Linux, yo recomiendo ** Ubuntu **
+Necesitas installar **Docker** y una terminal de Linux, yo recomiendo **Ubuntu**
 
 ```
 https://docs.docker.com/docker-for-windows/install/
@@ -34,7 +34,7 @@ El siguiente paso es el directorio donde se encuentra el proyecto
 cd todo-challenge/
 ```
 
-Ahora tenemos que ** construir ** los contenedores y imagenes de Docker (puede usar "sudo" si tu terminal lo requiere)
+Ahora tenemos que **construir** los contenedores y imagenes de Docker (puede usar "sudo" si tu terminal lo requiere)
 
 ```
 docker-compose -f local.yml build
@@ -58,7 +58,7 @@ Ahora tienes todo lo necesario para empezar a usar la API, puedes crear tu propi
 
 ## Hecho con 🛠️
 
-Esta API esta desarrollada con muchas librerias y frameworks, todo esta explicado en el archivo ** requirements ** , pero estos son los mas importantes
+Esta API esta desarrollada con muchas librerias y frameworks, todo esta explicado en el archivo **requirements** , pero estos son los mas importantes
 
 - [Django](https://www.djangoproject.com/) - The framework most used in backend
 - [Django REST Framework](https://www.django-rest-framework.org/) - The framework most used to create API REST
@@ -76,7 +76,7 @@ Estas son todas las personas que contribuyeron
 
 ## Expresiones de gratitud 🎁
 
--Muchas gracias a ** todas** las personas que decidieron revisar este proyecto 📢
+-Muchas gracias a **todas** las personas que decidieron revisar este proyecto 📢
 
 - Y gracias por haber leido hasta aqui, se que es mucho texto 🤓 ..
 
