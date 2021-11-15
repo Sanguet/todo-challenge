@@ -1,6 +1,6 @@
 # ToDoChallenge Invera
 
-![](https://img.shields.io/github/forks/Sanguet/Switch-SPA-APP) ![](https://img.shields.io/github/commit-activity/w/Sanguet/Switch-SPA-APP) ![](https://img.shields.io/github/last-commit/Sanguet/Switch-SPA-APP)
+![](https://img.shields.io/github/forks/Sanguet/todo-challenge) ![](https://img.shields.io/github/commit-activity/w/Sanguet/todo-challenge) ![](https://img.shields.io/github/last-commit/Sanguet/todo-challenge)
 
 **ToDoChallenge** es un desafio hecho por **Invera**
 Puedes consultar la documentacion oficial de este repositorio para conocer mas **[DocumentationOficial](https://ivan-van.gitbook.io/todochallenge/)**
