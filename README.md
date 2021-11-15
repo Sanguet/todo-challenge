@@ -7,7 +7,7 @@ Puedes consultar la documentacion oficial de este repositorio para conocer mas *
 
 ## Inicio 🚀
 
-Estas instrucciones van a proporcionar una ** copia ** de el ** proyecto ** en tu maquina ** local ** para **testear y corroborar** que este todo correcto.
+Estas instrucciones van a proporcionar una **copia** de el ** proyecto ** en tu maquina ** local ** para **testear y corroborar** que este todo correcto.
 
 ### Pre-requiments 📋
 
